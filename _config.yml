@@ -92,7 +92,7 @@ remote_theme: hydecorp/hydejack@v9
 accent_image:
 background: center / cover url(/assets/img/sidebar-bg.gif)
 overlay: false
-accent_color: rgb(79,177,186)
+accent_color: rgb(79,177,185)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
