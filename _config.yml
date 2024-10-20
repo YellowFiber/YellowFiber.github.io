@@ -35,13 +35,13 @@ keywords: []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo: /assets/img/pancake.gif
+logo: /assets/img/profile.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name: <firstname> <lastname>
-  email: <mail@domain.tld>
+  name: Park JungHye
+  email: dsa020175@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -89,10 +89,8 @@ remote_theme: hydecorp/hydejack@v9
 # ----------------------------------------------------------------------------------------
 
 # Sidebar image and theme color of the site.
-accent_image:
-background: center / cover url(/assets/img/sidebar-bg.gif)
-overlay: false
-accent_color: rgb(79,177,185)
+accent_image: /assets/img/sidebar-bg.gif
+accent_color: rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
