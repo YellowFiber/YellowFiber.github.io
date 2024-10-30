@@ -5,6 +5,10 @@ sitemap: false
 tags: [css]
 ---
 
+1. this ordered seed list will be replaced by the toc
+{:toc}
+
+
 tailwind를 얼마 써보지 못한 상태에서 작성한 글입니다.<br>
 혹시나 틀린 부분이나 더 좋은 방법있으시면 말씀 부탁드립니다!
 {:.note}

@@ -109,15 +109,15 @@ google_fonts: JetBrains+Mono:ital,wght@1,100..800|Nanum+Gothic:wght@400;700;800
 
 # The text font. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font: JetBrains Mono, Nanum Gothic, Helvetica, Arial, sans-serif
+font: JetBrains Mono, TmoneyRoundWind, Helvetica, Arial, sans-serif
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font_heading: JetBrains Mono, Nanum Gothic, Helvetica, Arial, sans-serif
+font_heading: JetBrains Mono, TmoneyRoundWind, Helvetica, Arial, sans-serif
 
 # The font used for code blocks. Expects a string that is a valid CSS font-family value.
 # Defaults to the [System Monospace Font Stack](https://qwtel.com/posts/software/the-monospaced-system-ui-css-font-stack/).
-font_code: JetBrains Mono, Nanum Gothic, Fira Code, Menlo, Monaco, Consolas, monospace;
+font_code: JetBrains Mono, TmoneyRoundWind, Fira Code, Menlo, Monaco, Consolas, monospace;
 
 defaults:
   # You can use this to provide a default accent color and background for
