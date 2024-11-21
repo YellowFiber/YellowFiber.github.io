@@ -78,7 +78,7 @@ paginate_path: /:num/
 # ---------------------------------------------------------------------------------------
 
 # This will use the gem `jekyll-theme-hydejack`, as defined in the sibling `Gemfile`.
-#theme: jekyll-theme-hydejack
+# theme: jekyll-theme-hydejack
 
 # You can uncomment `theme` above and replace it with `remote_theme` here iff you are using the
 # `jekyll-remote-theme` plugin (which is the case when using the legacy GitHub Pages pipeline).
@@ -90,12 +90,12 @@ remote_theme: hydecorp/hydejack@v9
 
 # Sidebar image and theme color of the site.
 accent_image: /assets/img/sidebar-bg.gif
-accent_color: rgb(54,188,155)
+accent_color: rgb(255, 121, 198)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color: rgb(25,55,71)
+theme_color: rgb(40, 42, 54)
 
 # IMPORTANT:
 # As of Hydejack 9.2, Google Fonts are turned off by default due to a stronger focus on privacy.
@@ -125,7 +125,7 @@ defaults:
   - scope:
       path: hyde/
     values:
-      accent_color: rgb(54,188,155)
+      accent_color: rgb(255, 121, 198)
       theme_color: rgb(32,32,32)
       accent_image:
         background: rgb(32,32,32)
